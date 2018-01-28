@@ -54,7 +54,7 @@ header nav ul li:hover {padding-top: 5px;}
 
 /* HOME SECTION********************************************************/
 #home {
-  background: url(img/landing.jpg);
+  background: url(../img/landing.jpg);
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
@@ -262,4 +262,71 @@ footer p {
   font-size: 12px;
   color: #f0f0f0;
   padding-top: 30px;
+}
+
+
+/* MEDIA QUERIES SECTION********************************************************/
+
+/* TABLETS */
+@media screen and (max-width: 1024px) {
+  header {
+    height: auto;
+  }
+  #logo {
+    width: 100px;
+    margin-top: 5px;
+  }
+  header nav {
+    margin-top: 0;
+  }
+
+  header nav ul li {
+    font-size: 12px;
+  }
+  #home h1 {
+    font-size: 90px;
+    margin-top: 200px;
+  }
+
+  #home h2 {
+    font-size: 22px;
+  }
+  h3 {
+    padding-top: 12%;
+  }
+
+  #about p {
+    width: 80%;
+  }
+
+  #projects {
+    width: auto;
+  }
+
+  #projects ul li {
+    width: 100%;
+    float: none;
+  }
+
+  #projects ul li:last-child {
+    padding-bottom: 20%;
+  }
+
+  #projects img {
+    width: 55%;
+    height: auto;
+  }
+
+  form input, form textarea{
+    width: 60%
+  }
+
+  .button {
+    width: 62%
+  }
+}
+
+/* MOBILES */
+@media screen and (max-width: 480px) {
+
 }
