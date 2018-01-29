@@ -213,60 +213,6 @@ form textarea {
 }
 
 
-<<<<<<< HEAD
-=======
-/* LOGIN/REGISTER SECTION********************************************************/
-#login {
-  background-color: white;
-}
-
-
-#login form input {
-  font-family: "Roboto Slab", serif;
-  font-size: 15px;
-  margin-bottom: 10px;
-  border-radius: 2px;
-  border: 1.5px solid;
-  border-color: #494949;
-  outline: none;
-}
-
-form input:first-child {
-  margin-top: 10px;
-}
-
-form input {
-  width: 552px;
-  height: 30px;
-}
-
-.myform {
-  color: #585858;
-  weight: 566px;
-  height: 30px;
-  padding-left: 10px;
-}
-
-.inputvalues{
-  padding-left: 10px;
-}
-
-
-#login_button {background-color: white; color: #585858; width: 552px; height: 50px;}
-#login_button:hover {background-color: #F5A9BC; color: #f0f0f0;}
-
-#register_button {background-color: white; color: #585858; width: 400px; height: 45px;}
-#register_button:hover {background-color: #F7819F; color: #f0f0f0;}
-
-#signup_button {background-color: white; color: #585858; width: 566px; height: 50px;}
-#signup_button:hover {background-color: #F5A9BC; color: #f0f0f0;}
-
-#back_button {background-color: white; color: #585858; width: 500px; height: 30px;}
-#back_button:hover {background-color: #F5A9BC; color: #f0f0f0;}
-
-
-
->>>>>>> b3053db54c4796ba4030d937797cefdbfb76cba6
 
 /* FOOTER SECTION********************************************************/
 footer {
