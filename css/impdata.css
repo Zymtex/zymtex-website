@@ -1,0 +1,63 @@
+/* REGULAR SECTION********************************************************/
+html, body {margin: 0; padding: 0; height: 100%; font-family: "Roboto", sans-serif; font-weight: 500; background-color: #E6E6E6;}
+section {min-height: 100%;}
+a {text-decoration: none;}
+li {list-style-type: none; color: #F5A9BC;}
+#logo, li {
+  transition: all 300ms;
+  -webkit-transition: all 300ms;
+  -moz-transition: all 300ms;
+  -o-transition: all 300ms;
+}
+/* HEADER SECTION********************************************************/
+header {width: 100%; height: 65px; position: fixed; top: 0; left: 0; background: white; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2); z-index: 1;}
+
+#logo {width: 140px; float: left; margin: 10px 0 0 50px;}
+#logo:hover {opacity: 0.5;}
+#logo img {width: 100%;}
+
+header nav {float: right; margin: 10px 50px 0 0;}
+header nav ul li {float: left; margin-left: 24px;}
+header nav ul li a{font-size: 16px; color: #F5A9BC;}
+header nav ul li:hover {padding-top: 5px;}
+
+/* IMPRESSUM SECTION**************************************************/
+
+.impressum {padding: 20px 0 0 150px;}
+.impressum h1 {font-size: 30px; color: #2E2E2E; margin: 60px 0 50px 0; text-transform: uppercase;}
+.impressum h2 {font-size: 18px; color: #585858; text-transform: uppercase;}
+.impressum p {font-size: 14px; color: #585858;}
+.impressum p:last-child {margin-bottom: 120px;}
+.impressum hr {opacity: 0.7; color: black; width: 400px; float: left;}
+
+/* Datenschutz SECTION**************************************************/
+
+.datenschutz {padding: 20px 0 0 150px;}
+.datenschutz h1 {font-size: 30px; color: #2E2E2E; margin: 60px 0 50px 0; text-transform: uppercase;}
+.datenschutz h2 {font-size: 18px; color: #585858; text-transform: uppercase;}
+.datenschutz p {font-size: 14px; color: #585858;}
+.datenschutz p:last-child {margin-bottom: 120px;}
+.datenschutz hr {opacity: 0.7; color: black; width: 400px; float: left;}
+
+
+/* FOOTER SECTION********************************************************/
+footer {
+  width: 100%;
+  height: 35px;
+  background-color: #3f3f3f;
+  padding: 20px 0;
+}
+
+footer nav {
+  float: left;
+}
+
+footer nav ul li {
+  margin-left: 15px;
+  display: inline-block;
+}
+
+footer nav ul li a {
+  font-size: 13px;
+  color: #fff;
+}
