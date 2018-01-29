@@ -217,7 +217,7 @@ form textarea {
 /* FOOTER SECTION********************************************************/
 footer {
   width: 100%;
-  height: 50px;
+  height: 35px;
   background-color: #3f3f3f;
   padding: 20px 0;
 }
@@ -235,6 +235,7 @@ footer nav ul li a {
   font-size: 13px;
   color: #fff;
 }
+
 
 
 /* MEDIA QUERIES SECTION********************************************************/
