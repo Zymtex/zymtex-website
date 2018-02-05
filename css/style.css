@@ -303,6 +303,9 @@ footer nav ul li a {
   #home h2 {width: 70%; height: auto;}
   #projects img {width: 70%; height: auto;}
 
+  #sm_icons {width: 70%; height: auto;}
+
+
   form input, form textarea {width: 70%}
   .button {width: 72%;}
 }
