@@ -1,7 +1,7 @@
 /* REGULAR SECTION********************************************************/
 html, body {margin: 0; padding: 0; height: 100%; font-family: "Roboto", sans-serif; font-weight: 500; background-color: #E6E6E6;}
 section {min-height: 100%;}
-a {text-decoration: none;}
+a {text-decoration: none; text-transform: uppercase;}
 li {list-style-type: none; color: #F5A9BC;}
 #logo, li {
   transition: all 300ms;
