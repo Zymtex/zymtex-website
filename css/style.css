@@ -267,7 +267,7 @@ footer nav ul li a {
 
 
 /* MOBILES ********************************************************/
-@media screen and (max-width: 480px) {
+@media only screen and (max-width: 786px) {
   #logo {width: 90px; margin-left: 30px;}
 
   header nav {margin: 0; float: none;}
