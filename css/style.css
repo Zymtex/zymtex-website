@@ -11,7 +11,7 @@ h3 {font-size: 40px; padding-top: 8%; margin-bottom: 5px;}
 h4, p {font-family: "Roboto Slab", serif; color: #585858;}
 
 hr {width: 30px; height: 3px; background: #585858; border: 0; margin: 0 auto 40px auto;}
-#logo, #login_button, #register_button, #signup_button, #back_button, li, img, .button {
+#logo, #login_button, #register_button, #signup_button, #back_button, li, img, .button, .fa-bars {
   transition: all 300ms;
   -webkit-transition: all 300ms;
   -moz-transition: all 300ms;
