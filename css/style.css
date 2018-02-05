@@ -305,6 +305,11 @@ footer nav ul li a {
 
   #sm_icons {width: 70%; height: auto;}
 
-  form input, form textarea {width: 70%}
+  form input, form textarea {width: 70%;}
   .button {width: 72%;}
+
+  footer nav ul {width: 100%; height: auto;}
+  footer nav ul li {font-size: 11px;}
+
+
 }
