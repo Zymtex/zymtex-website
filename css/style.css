@@ -237,7 +237,6 @@ footer nav ul li a {
 }
 
 
-
 /* MEDIA QUERIES SECTION********************************************************/
 
 /* TABLETS ********************************************************/
@@ -310,5 +309,5 @@ footer nav ul li a {
 
   footer {width: 100%; height: 50%;}
   footer nav ul li {margin-left: auto;}
-  footer nav ul li a {font-size: 10px; }
+  footer nav ul li a {font-size: 10px;}
 }
